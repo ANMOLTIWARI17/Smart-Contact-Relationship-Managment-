@@ -74,26 +74,6 @@ User	user@gmail.com	user123
 
 You can modify this as per your setup.
 
-📁 Project Structure
-bash
-Copy
-Edit
-Smart-Contact-Relationship-Managment-/
-├── src/
-│   ├── main/
-│   │   ├── java/
-│   │   │   └── com.smartcontact/
-│   │   │       ├── controller/
-│   │   │       ├── model/
-│   │   │       ├── repository/
-│   │   │       └── service/
-│   │   └── resources/
-│   │       ├── static/
-│   │       ├── templates/
-│   │       └── application.properties
-├── pom.xml
-└── README.md
-
 👤 Author
 Anmol Tiwari
 📧 Email: tanmol927@gmail.com
