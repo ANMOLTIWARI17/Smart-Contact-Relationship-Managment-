@@ -1,0 +1,18 @@
+Anmol 
+
+.\mvnw clean install -DskipTests
+run this command in your terminal to clean and install the project. If you encounter any issues, you can refer
+.\mvnw spring-boot:run
+
+mvn clean install -DskipTests
+
+
+mysql -u root -p
+password: 1234
+
+mysql commands
+CREATE DATABASE your_db_name;
+show databases;
+
+
+http://localhost:8081
