@@ -49,31 +49,24 @@ A full-stack web application for managing personal or business contacts securely
 
 bash
 git clone https://github.com/ANMOLTIWARI17/Smart-Contact-Relationship-Managment-.git
-
 cd Smart-Contact-Relationship-Managment-
 
 2. Database Setup
 
 Create a new MySQL database named:
-
 cmd --  smart_contact_manager;
-
 Configure your application.properties file with your DB credentials.
 
 #properties
 
 spring.datasource.url=jdbc:mysql://localhost:3306/smart_contact_manager
-
 spring.datasource.username=your_mysql_username
-
 spring.datasource.password=your_mysql_password
 
 
 3. Build & Run the Project
 mvn clean install
-
 mvn spring-boot:run
-
 Application will run on: http://localhost:8080
 
 
